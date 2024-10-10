@@ -31,4 +31,8 @@ public abstract class AbstractAnimal implements Animal {
     public void setBirthYear(int birthYear) {
         this.birthYear = birthYear;
     }
+    public int getAge(){
+        int currentYear = 2024;
+        return currentYear - birthYear;
+    }
 }
