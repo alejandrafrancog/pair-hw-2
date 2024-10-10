@@ -55,7 +55,7 @@ public class Main {
         area_4.addAnimal(hedgehog_4);
 
         Zoo zoo = new Zoo("ZooperZoo",zooAreas);
-        int currentYear = 2024;
+        
         zoo.getAreas().stream()
                 .filter(zooArea -> zooArea.getAnimals().size() > 2) // Filter zooAreas with more than 2 animals
                 .forEach(zooArea -> {
@@ -65,7 +65,7 @@ public class Main {
                         System.out.println("Animal Name: " + animal.getName());
                         System.out.println("Species: " + animal.getSpecie());
                         System.out.println("Breed: " + animal.getBreed());
-                        System.out.println("Age: " + (currentYear-animal.getBirthYear()));
+                        System.out.println("Age: " + animal.getAge());
                         System.out.println("----------------------");
                     });
                 });
