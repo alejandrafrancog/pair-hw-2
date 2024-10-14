@@ -1,0 +1,94 @@
+Zoo: ZooperZoo
+----------------------
+Zoo Area: The Cool Area
+Capacity: 5
+Animals:
+    Animal Name: Sonic
+    Species: Desert
+    Breed: European
+    Age: 179
+    ----------------------
+    Animal Name: Gus
+    Species: Sun
+    Breed: Some breed
+    Age: 74
+    ----------------------
+    Animal Name: Sonic
+    Species: Four-toed
+    Breed: European
+    Age: 279
+    ----------------------
+    Animal Name: Lucio
+    Species: Panda
+    Breed: Some breed
+    Age: 74
+    ----------------------
+    Animal Name: Sonic
+    Species: Four-toed
+    Breed: European
+    Age: 279
+    ----------------------
+Zoo Area: Amazing Area
+Capacity: 3
+Animals:
+    Animal Name: Pedro
+    Species: Siberian Tiger
+    Breed: Some breed
+    Age: 3
+    ----------------------
+    Animal Name: Julio
+    Species: Siberian Tiger
+    Breed: Some breed
+    Age: 224
+    ----------------------
+    Animal Name: Ernesto
+    Species: Siberian Tiger
+    Breed: Some breed
+    Age: 1
+    ----------------------
+Zoo Area: Random Area
+Capacity: 6
+Animals:
+    Animal Name: Lucio
+    Species: B
+    Breed: Some breed
+    Age: 74
+    ----------------------
+    Animal Name: Carlos
+    Species: C
+    Breed: Some breed
+    Age: 74
+    ----------------------
+    Animal Name: Gus
+    Species: A
+    Breed: Some breed
+    Age: 74
+    ----------------------
+    Animal Name: Lolo
+    Species: D
+    Breed: Some breed
+    Age: 487
+    ----------------------
+Zoo Area: The Great Area
+Capacity: 10
+Animals:
+    Animal Name: Lilo
+    Species: E
+    Breed: Some breed
+    Age: 3
+    ----------------------
+    Animal Name: Peter
+    Species: Panda
+    Breed: Some breed
+    Age: 6
+    ----------------------
+    Animal Name: Mariano
+    Species: Spectacled
+    Breed: Some breed
+    Age: 74
+    ----------------------
+    Animal Name: Sonic
+    Species: Indian
+    Breed: European
+    Age: 0
+    ----------------------
