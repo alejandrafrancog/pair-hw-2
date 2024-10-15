@@ -71,7 +71,7 @@ public class Main {
                 });
 
 
-
+        ExportTxt.exportZooTxt(zoo, "zoo_report.txt");
 
     }
 }
