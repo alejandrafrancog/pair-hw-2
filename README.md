@@ -17,7 +17,8 @@ and addition of animals to Zoo Areas.
 ## 🤝 Contributions
 1. Fork the project
 2. Create a new branch with your feature:
-   ```git checkout -b new-feature```
+   ```bash
+   git checkout -b new-feature
 
-3. Submit a pull request when ready.
+4. Submit a pull request when ready.
 
