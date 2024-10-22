@@ -2,7 +2,7 @@
 Welcome to the Zoo! This program aims to manage various areas of a zoo
 
 ## 📃 Description
-This project simulates the management of a zoo, allowing the addition and modification of animals, as well as the creation, modification
+This project simulates the management of a zoo, allowing the addition of animals, as well as the creation,
 and addition of animals to Zoo Areas.
 
 ## 🚀 Features
