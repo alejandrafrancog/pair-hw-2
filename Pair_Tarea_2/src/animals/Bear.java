@@ -1,3 +1,5 @@
+package animals;
+
 public class Bear extends AbstractAnimal {
     private static int numOfBears;
     public Bear(String specie,String breed,String name,int birthYear) {

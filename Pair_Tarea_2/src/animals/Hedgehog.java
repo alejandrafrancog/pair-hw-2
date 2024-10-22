@@ -1,3 +1,5 @@
+package animals;
+
 public class Hedgehog extends AbstractAnimal {
     private static int numOfHedgehogs = 0;
     public Hedgehog(String specie,String breed,String name,int birthYear) {

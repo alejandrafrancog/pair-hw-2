@@ -1,3 +1,5 @@
+package zoo;
+
 import java.util.ArrayList;
 public class Zoo {
     private String name;
