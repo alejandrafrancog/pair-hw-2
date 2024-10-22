@@ -6,7 +6,9 @@ This project simulates the management of a zoo, allowing the addition and modifi
 and addition of animals to Zoo Areas.
 
 ## 🚀 Features
-- Add and update animals
+- Read data of animals and areas from .csv files
+- Create animals and areas from files
+- Random assignment of animals to areas
 - Export data for external use
 
 ## 👨‍💻 Team Members
